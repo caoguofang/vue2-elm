@@ -8,7 +8,7 @@
                     <section @click="showDetail(item)">
                         <header class="order_item_right_header">
                             <section class="order_header">
-                                <h4 >
+                                <h4>
                                     <span class="ellipsis">{{item.restaurant_name}} </span>
                                     <svg fill="#333" class="arrow_right">
                                         <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#arrow-right"></use>
